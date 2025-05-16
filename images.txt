@@ -1,1 +1,1 @@
-alpine/socat:latest
+ultralytics/ultralytics:latest
